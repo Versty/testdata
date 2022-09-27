@@ -1,9 +1,10 @@
 ! Title: AdGuard test filter
 ! Description: Apple
-! Version: 0.0.14
-! TimeUpdated: 2022-07-26T19:07:35+03:00
+! Version: 0.0.15
+! TimeUpdated: 2022-09-27T19:07:35+03:00
 
 @@||gismeteo.ru^
 ||ya.ru^
 ||tutu.ru^
 ||dexerto.com^
+new string
