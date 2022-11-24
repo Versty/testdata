@@ -4,7 +4,7 @@
 ! TimeUpdated: 2022-09-28T19:07:35+03:00
 
 @@||gismeteo.ru^
-||ya.ru^
+||vk.com^
 ||tutu.ru^
 ||dexerto.com^
 new string
