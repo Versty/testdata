@@ -5,3 +5,4 @@
 
 @@||gismeteo.ru^
 @@||tutu.ru^
+one more rule
