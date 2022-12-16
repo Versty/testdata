@@ -1,7 +1,7 @@
-! Title: AdGuard test filter
-! Description: Apple
-! Version: 0.0.18
-! TimeUpdated: 2022-09-28T19:07:35+03:00
+! Title: AdGuard test filterrr
+! Description: Applem1
+! Version: 0.0.19
+! TimeUpdated: 2022-12-16T19:07:35+03:00
 
 @@||gismeteo.ru^
 ||vk.com^
