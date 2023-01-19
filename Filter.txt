@@ -2,6 +2,7 @@
 ! Description: Apple
 ! Version: 0.0.20
 ! TimeUpdated: 2022-12-16T17:07:35+03:00
+! Homepage: 
 
 @@||gismeteo.ru^
 ||vk.com^
