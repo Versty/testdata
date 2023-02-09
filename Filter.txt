@@ -1,6 +1,6 @@
 ! Title: AdGuard test filte
 ! Description: Apple
-! Version: 0.0.20
+! Version: 0.0.21
 ! TimeUpdated: 2022-12-16T17:07:35+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
