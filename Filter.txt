@@ -8,6 +8,3 @@
 ||vk.com^
 ||tutu.ru^
 ||dexerto.com^
-new string
-6th rule
-new rule
