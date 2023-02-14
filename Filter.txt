@@ -1,4 +1,4 @@
-! Title: AdGuard Diana test
+! Title: AdGuard Diana wow
 ! Description: 1234567wow
 ! Version: 0.0.22
 ! TimeUpdated: 2022-12-16T17:07:35+03:00
