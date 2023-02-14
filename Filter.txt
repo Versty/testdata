@@ -2,7 +2,7 @@
 ! Description: 1234567wow
 ! Version: 0.0.22
 ! TimeUpdated: 2022-12-16T17:07:35+03:00
-! Homepage: 1 https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
+! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
 @@||gismeteo.ru^
 ||vk.com^
