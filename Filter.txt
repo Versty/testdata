@@ -1,8 +1,8 @@
 ! Title: AdGuard test filte
-! Description: Apple
-! Version: 0.0.21
+! Description: 1234567wow
+! Version: 0.0.22
 ! TimeUpdated: 2022-12-16T17:07:35+03:00
-! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
+! Homepage: 1 https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
 @@||gismeteo.ru^
 ||vk.com^
@@ -10,3 +10,4 @@
 ||dexerto.com^
 new string
 6th rule
+new rule
