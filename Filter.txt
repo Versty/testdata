@@ -1,6 +1,6 @@
-! Title: AdGuard Diana wow
-! Description: How about today
-! Version: 0.0.24
+! Title: AdGuard Diana's filter
+! Description: Yo
+! Version: 0.0.25
 ! TimeUpdated: 2022-12-16T17:07:35+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
@@ -9,3 +9,4 @@
 ||tutu.ru^
 ||dexerto.com^
 ||m24.ru^
+jhjbh
