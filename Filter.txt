@@ -5,7 +5,7 @@
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
 @@||gismeteo.ru^
-@@||vk.com^
+||vk.com^
 ||tutu.ru^
 ||dexerto.com^
 ||m24.ru^
