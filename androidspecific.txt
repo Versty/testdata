@@ -4,3 +4,6 @@
 
 ||example.org^
 championat.com##.header
+techbone.de#$#body { overflow: auto !important; padding-right: 0 !important; }
+techbone.de#$##cookie_banner { display: none !important; }
+techbone.de#$##cookie_banner ~ div.modal-backdrop { display: none !important; }
