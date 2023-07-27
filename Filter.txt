@@ -1,12 +1,14 @@
-! Title: AdGuard Diana's 
-! Description: main filter 
-! Version: 0.0.27
-! Updated: 2023-04-5T18:27:35+03:00
+! Title: AdGuard Versty custom
+! Description: checking for the auto updates
+! Version: 0.0.28
+! Updated: 2023-04-5T19:59:35+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
 @@||gismeteo.ru^
 ||vk.com^
 ||tutu.ru^
 ||dexerto.com^
+||letu.ru^
+
 
 
