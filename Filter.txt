@@ -1,6 +1,6 @@
 ! Title: AdGuard Versty custom
-! Description: ?
-! Version: 0.0.29
+! Description: Is something wrong? 
+! Version: 0.0.30
 ! Updated: 2023-07-28T11:17:35+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
@@ -8,6 +8,8 @@
 ||vk.com^
 ||tutu.ru^
 ||dexerto.com^
+||m24.ru^
+
 
 
 
