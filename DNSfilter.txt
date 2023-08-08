@@ -1,0 +1,9 @@
+! Title: DNSfilter for testing purposes 
+! Description: ? 
+! Version: 0.0.1
+! Updated: 2023-07-31T11:17:35+03:00
+! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/DNSfilter.txt
+
+0.0.0.0 miuz.ru
+||ok.ru^
+1.2.3.4 mkb.ru
