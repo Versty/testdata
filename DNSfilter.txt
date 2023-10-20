@@ -8,4 +8,4 @@
 ||ok.ru^
 1.2.3.4 mkb.ru
 m24.ru
-
+||www.reddit.com^$dnsrewrite=old.reddit.com
