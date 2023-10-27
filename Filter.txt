@@ -10,7 +10,10 @@
 ||dexerto.com^
 ||ok.ru^
 
-
+#%#console.log('AG User Filter: 14-08');
+study.ru#$#.top-banner { display: none !important; }
+study.ru#$##header { height: 94px !important; }
+study.ru#$#.header-inner { height: 94px !important; }
 
 
 
