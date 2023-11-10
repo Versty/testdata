@@ -10,10 +10,11 @@
 ||dexerto.com^
 ||ok.ru^
 
-#%#console.log('AG User Filter: 14-08');
-study.ru#$#.top-banner { display: none !important; }
-study.ru#$##header { height: 94px !important; }
-study.ru#$#.header-inner { height: 94px !important; }
+!#if adguard_ext_chromium
+example.org#%#//scriptlet('set-constant', 'test0', '123')
+!#else
+example.org#%#//scriptlet('set-constant', 'test0', '666')
+!#endif
 
 
 
