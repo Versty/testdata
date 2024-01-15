@@ -1,7 +1,7 @@
-! Title: AdGuard Versty's custom
-! Description: 1234 the real one filter 
+! Title: AdGuard Versty's customm
+! Description: the real one filter 
 ! Version: 0.0.34
-! Updated: 2023-10-06T18:40:35+03:00
+! Updated: 2023-10-06T18:40:35+00:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
 @@||gismeteo.ru^
