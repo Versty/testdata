@@ -6,7 +6,7 @@
 
 @@||gismeteo.ru^
 ||vk.com^
-||tutu.ru^
+||tutu.ru^$document
 ||dexerto.com^
 ||ok.ru^
 
