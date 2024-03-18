@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         scripttt doing nothing
+// @name         script doing nothing
 // @version      0.6
 // @description  hello world
 // @match        *://*/*
