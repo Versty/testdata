@@ -1,6 +1,6 @@
-! Title: AdGuard Versty's
-! Description: experimental filter experimental filter experimental filter experimental filter experimental filter experimental filter experimental filter experimental filter experimental filter experimental filter experimental filter experimental filter experimental filter
-! Version: 0.0.2
+! Title: AdGuard Versty's filter
+! Description: experimental filter
+! Version: 0.0.3
 ! Updated: 2024-03-15T11:45:35+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
@@ -8,13 +8,8 @@
 ||vk.com^
 ||tutu.ru^$document
 ||dexerto.com^
-||ok.ru^
 
-!#if adguard_ext_chromium
-example.org#%#//scriptlet('set-constant', 'test0', '123')
-!#else
-example.org#%#//scriptlet('set-constant', 'test0', '666')
-!#endif
+
 
 
 
