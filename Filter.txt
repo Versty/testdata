@@ -1,6 +1,6 @@
 ! Title: AdGuard Versty's filter
 ! Description: experimental filter
-! Version: 0.0.5
+! Version: 0.0.6
 ! Updated: 2024-09-16T12:32:35+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
