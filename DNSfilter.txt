@@ -1,7 +1,7 @@
 ! Title: DNS filter 
 ! Description: the real one filter!
-! Version: 0.0.4
-! Updated: 2024-09-16T12:25:31+03:00
+! Version: 0.0.5
+! Updated: 2024-09-16T12:33:31+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/DNSfilter.txt
 
 0.0.0.0 miuz.ru
