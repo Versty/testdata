@@ -1,8 +1,0 @@
-! Title: To be deleted 
-! Description: test test test tesst 
-! Version: 0.0.1
-! Updated: 2024-09-17T12:34:35+03:00
-! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Will_be_deleted.txt
-
-
-||vk.com^
