@@ -1,9 +1,0 @@
-! Title: Remove this filter 
-! Description: --
-! Version: 0.0.1
-! Updated: 2024-09-17T17:36:35+03:00
-! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Will_be_deleted.txt
-
-@@||gismeteo.ru^
-||vk.com^
-||tutu.ru^$document
