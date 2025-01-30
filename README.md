@@ -6,9 +6,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://agrd.io/github_android_vpn">
+    <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="60" />
+  </a>
+</p>
 
 
-<link rel="icon" media="(prefers-color-scheme: light)" href="light.ico" />
 
 
 
