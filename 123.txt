@@ -1,8 +1,3 @@
 championat.com##.header
 
-!#if (adguard_app_android)
-example.org##div
-||example.com^
-! this one shouldn't work
-!#include https://raw.githubusercontent.com/zzebrum/us/master/androidspecific.txt
-!#endif
+
