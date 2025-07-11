@@ -1,13 +1,13 @@
 ! Title: AdGuard Versty's filter
-! Description: experimental 
-! Version: 0.0.12
-! Updated: 2024-12-05T14:12:31+03:00
+! Description: very experimental 2025 filter rules
+! Version: 0.0.15
+! Updated: 2025-07-11T14:12:31+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
 ||gismeteo.ru^$important,document
 ||vk.com^
 ||tutu.ru^$document
-one more line
+
 
 
 
