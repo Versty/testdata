@@ -1,6 +1,6 @@
 ! Title: DNS filter 
-! Description: the real one filter!
-! Version: 0.0.14
+! Description: 2025 real filter rules
+! Version: 0.0.15
 ! Updated: 2024-12-04T19:10:31+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/DNSfilter.txt
 
@@ -9,6 +9,6 @@
 1.2.3.4 mkb.ru
 m24.ru
 ||vk.com^
-one more line
+
 
 
