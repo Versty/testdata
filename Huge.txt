@@ -1,0 +1,6 @@
+! Title: Huge 
+! Description: 
+! Version: 0.0.1
+! Updated: 2025-07-11T19:10:31+03:00
+! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/DNSfilter.txt
+
