@@ -1,7 +1,7 @@
 ! Title: AdGuard Versty's filter
-! Description: very experimental
-! Version: 0.0.16
-! Updated: 2025-09-30T19:52:31+03:00
+! Description: very experimental one
+! Version: 0.0.17
+! Updated: 2025-09-30T19:20:01+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/Filter.txt
 
 ||gismeteo.ru^$important,document
