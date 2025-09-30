@@ -1,7 +1,7 @@
 ! Title: DNS filter test 
 ! Description: filtering rules
-! Version: 0.0.18
-! Updated: 2025-09-30T20:00:31+03:00
+! Version: 0.0.19
+! Updated: 2025-09-30T20:10:31+03:00
 ! Homepage: https://raw.githubusercontent.com/Versty/testdata/master/DNSfilter.txt
 
 0.0.0.0 miuz.ru
